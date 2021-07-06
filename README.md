@@ -1,4 +1,4 @@
-[Life Game Reality](../blob/main/LifeGameReality.md) Life Game Reality _(Editing)_
+[Life Game Reality](https://github.com/reikron/LifeGameReality/blob/main/LifeGameReality.md) Life Game Reality _(Editing)_
 
 [Linkedin](https://www.linkedin.com/in/eder-almeida-0ba134b5) &middot;
 [Github](https://github.com/reikron) &middot;
